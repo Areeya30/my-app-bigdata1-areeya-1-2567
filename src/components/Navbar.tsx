@@ -70,6 +70,9 @@ export default function Navbar() {
             <li>
               <a href="/ai">AI ตรวจวินิจฉัยโรค</a>
             </li>
+            <li>
+              <a href="/evaluation">การประเมินนโยบายสาธารณะ</a>
+            </li>
             {/* <li>
               <a>AI ขับเคลื่อนนโยบายสาธารณะ</a>
             </li> */}
