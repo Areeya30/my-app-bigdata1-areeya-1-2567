@@ -77,7 +77,7 @@ export default function Navbar() {
               <a>AI ขับเคลื่อนนโยบายสาธารณะ</a>
             </li> */}
             <li>
-              <a>ChatGPT</a>
+              <a href="/chatgpt">ChatGPT</a>
             </li>
             {/* <li>
               <a>ทีมงาน</a>
